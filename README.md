@@ -136,3 +136,7 @@ The best visualizer performance is with **iTerm2**.
 ![Visualizer](/resources/visu0.png)
 
 ![Visualizer](/resources/visu.png.png)
+
+![Visualizer](/resources/core1.gif)
+
+![Visualizer](/resources/core2.gif)
